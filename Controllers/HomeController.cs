@@ -10,7 +10,7 @@ namespace DemoSwagger3.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Title = "Home Page";
+            ViewBag.Title = "Welcome to Home Page";
 
             return View();
         }
